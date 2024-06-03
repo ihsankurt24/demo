@@ -30,7 +30,7 @@ public class Verhuur {
             this.boten.add(boot);
         } else {
             System.out.println(boot);
-            System.out.println("Mag niet verhuurd worden! Toevoegen mislukt.");
+            System.out.println("Mag niet verhuurd worden! Toevoegen mislukt!");
         }
 
     }
